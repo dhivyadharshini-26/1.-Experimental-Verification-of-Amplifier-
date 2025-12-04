@@ -85,7 +85,11 @@ Inverting amplifier:
 
 
 ## TABULATION
+
 ![WhatsApp Image 2025-11-28 at 10 22 00_f441583f](https://github.com/user-attachments/assets/8ed45d8c-6659-4652-aa70-3721c1f9e14e)
+
+![WhatsApp Image 2025-12-04 at 13 46 16_94989587](https://github.com/user-attachments/assets/bd9e05d1-1bd0-49c1-b6fc-caee56ee39aa)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-28 at 10 22 01_80177c2f](https://github.com/user-attachments/assets/77345f92-74f8-4a7a-a8e9-c2a220aa4a2e)
@@ -123,6 +127,7 @@ PROCEDURE:
 ## TABULATION
 ![WhatsApp Image 2025-11-28 at 10 28 45_dfca9478](https://github.com/user-attachments/assets/97f88600-f9e7-479b-b3f4-6b2fc59a587a)
 
+![WhatsApp Image 2025-12-04 at 13 46 42_06ffd101](https://github.com/user-attachments/assets/6133471c-142c-40b2-95a7-89a2277f988e)
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -173,6 +178,8 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ![WhatsApp Image 2025-11-28 at 10 33 48_f629095b](https://github.com/user-attachments/assets/b5f9e89e-6cd2-4dc9-b5a6-30468330411c)
 
+![WhatsApp Image 2025-12-04 at 13 47 17_76c70101](https://github.com/user-attachments/assets/c1461a2c-cfd3-4d1c-a618-c5a1cb52a2fd)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
@@ -191,7 +198,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+![WhatsApp Image 2025-12-04 at 13 43 34_05d181c8](https://github.com/user-attachments/assets/89641b87-0de6-45ba-9d64-43aab35371f6)
+
 
 PROCEDURE:
 
@@ -209,10 +217,13 @@ PROCEDURE:
 
 ![WhatsApp Image 2025-11-28 at 10 40 16_37062999](https://github.com/user-attachments/assets/95e0eb38-4f6c-4b39-a614-78f5f08f95df)
 
+![WhatsApp Image 2025-12-04 at 13 45 49_02dd95cc](https://github.com/user-attachments/assets/8afaf1c2-b47a-40ce-94c8-44c8d13dc9e5)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION
 
 ![WhatsApp Image 2025-11-28 at 10 40 16_0813d738](https://github.com/user-attachments/assets/9cdb7f06-aece-478c-a0e0-cd28f9ad8c5d)
+
 
 ---
 ## RESULT
